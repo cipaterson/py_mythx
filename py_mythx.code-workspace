@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../.pyenv/versions/3.11.1/lib/python3.11/site-packages/pythx"
+		},
+		{
+			"path": "../../.pyenv/versions/3.11.1/lib/python3.11/site-packages/mythx_cli"
+		},
+		{
+			"path": "../../.pyenv/versions/3.11.1/lib/python3.11/site-packages/mythx_models"
+		}
+	],
+	"settings": {}
+}
